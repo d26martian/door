@@ -9,5 +9,12 @@ Currently, two official plugins are available:
 
 
 -  sudo apt update 
-<!-- GIT -->
-- sudo apt install git
+1. GIT
+  - sudo apt install git
+2. install nvm
+3. install nginx
+ - sudo apt install nginx
+4. remove dir html
+5. mv dist ../../var/www
+6. sudo service nginx restart
+

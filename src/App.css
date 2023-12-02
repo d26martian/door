@@ -27,6 +27,8 @@
   gap: 40px;
 }
 
-/* @media screen and (min-width: 640px) {
-  
-} */
+@media screen and (max-width: 768px) {
+  .wrapper {
+    flex-direction: column;
+  }
+}
