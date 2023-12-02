@@ -1,0 +1,29 @@
+.panel {
+  width: 800px;
+  /* height: 100vh; */
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+}
+
+.col {
+  flex: 1;
+}
+
+.box {
+  border-radius: 30px;
+  padding: 20px 30px;
+
+  box-shadow: 0px 0px 10px #343030;
+  background-color: #ccc;
+}
+
+.log {
+  width: 150px;
+  height: 150px
+}
+
+.log img {
+  width: 100%;
+  
+}
